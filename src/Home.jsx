@@ -7,8 +7,8 @@ const Home = () => {
   return (
     <>
         <div className="d-flex">
-        <Sidebar/>
-        <Message/>
+        <Sidebar />
+        <Message />
         </div>
     
     </>

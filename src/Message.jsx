@@ -1,10 +1,10 @@
 import React from 'react'
-
+import './styles.css'
 
 const Message = () => {
   return (
     <>
-    <div className="d-flex col-9 bg-dark" style={{
+    <div className="d-flex col-9 messagebar" style={{
         height:'100vh'
       }}>
 
